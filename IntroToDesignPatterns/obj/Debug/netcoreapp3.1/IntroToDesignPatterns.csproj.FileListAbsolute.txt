@@ -24,3 +24,7 @@ D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\obj\Deb
 D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.pdb
 D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.genruntimeconfig.cache
 D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\bin\Debug\netcoreapp3.1\IntroToDesignPatterns.xml
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\bin\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.dll
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\bin\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.pdb
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.csproj.CopyComplete

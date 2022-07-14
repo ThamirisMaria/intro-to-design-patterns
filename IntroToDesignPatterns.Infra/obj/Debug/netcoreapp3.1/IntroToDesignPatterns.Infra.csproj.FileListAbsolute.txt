@@ -1,0 +1,10 @@
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\bin\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.deps.json
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\bin\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.dll
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\bin\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.pdb
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.AssemblyInfoInputs.cache
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.AssemblyInfo.cs
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.dll
+D:\Documentos\Projetos C#\intro-to-design-patterns\IntroToDesignPatterns.Infra\obj\Debug\netcoreapp3.1\IntroToDesignPatterns.Infra.pdb

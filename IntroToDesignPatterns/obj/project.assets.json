@@ -72,6 +72,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "IntroToDesignPatterns.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/IntroToDesignPatterns.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroToDesignPatterns.Infra.dll": {}
+        }
       }
     }
   },
@@ -200,10 +210,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "IntroToDesignPatterns.Infra/1.0.0": {
+      "type": "project",
+      "path": "../IntroToDesignPatterns.Infra/IntroToDesignPatterns.Infra.csproj",
+      "msbuildProject": "../IntroToDesignPatterns.Infra/IntroToDesignPatterns.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "IntroToDesignPatterns.Infra >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.3.1"
     ]
   },
@@ -238,7 +254,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Documentos\\Projetos C#\\intro-to-design-patterns\\IntroToDesignPatterns.Infra\\IntroToDesignPatterns.Infra.csproj": {
+              "projectPath": "D:\\Documentos\\Projetos C#\\intro-to-design-patterns\\IntroToDesignPatterns.Infra\\IntroToDesignPatterns.Infra.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

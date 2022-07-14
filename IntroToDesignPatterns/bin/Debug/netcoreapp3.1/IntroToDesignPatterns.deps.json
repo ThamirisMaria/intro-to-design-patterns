@@ -31,6 +31,7 @@
     ".NETCoreApp,Version=v3.1": {
       "IntroToDesignPatterns/1.0.0": {
         "dependencies": {
+          "IntroToDesignPatterns.Infra": "1.0.0",
           "Swashbuckle.AspNetCore": "6.3.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -379,6 +380,14 @@
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "IntroToDesignPatterns.Infra/1.0.0": {
+        "runtime": {
+          "IntroToDesignPatterns.Infra.dll": {}
+        },
+        "compile": {
+          "IntroToDesignPatterns.Infra.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2122,6 +2131,11 @@
       "sha512": "sha512-JLm9hN67jh7RHsX3H30+tb432Li8xm/qV5lRyMMkyHYMfWitIuKAAdrpo2ILcHOIeH7CLMuOO2hp/iLBmE+Bkw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.3.1",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+    },
+    "IntroToDesignPatterns.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
