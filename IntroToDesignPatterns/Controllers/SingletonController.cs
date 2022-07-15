@@ -15,7 +15,7 @@ namespace IntroToDesignPatterns.Controllers
         [HttpGet()]
         public IActionResult Get()
         {
-            var singleton = new Singleton();
+            var singleton = Singleton.Instance;
             return Ok(singleton);
         }
     }
