@@ -1,3 +1,4 @@
+using IntroToDesignPatterns.Infra.Singleton;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -41,6 +42,7 @@ namespace IntroToDesignPatterns
                 var apiPath = Path.Combine(AppContext.BaseDirectory, "IntroToDesignPatterns.xml");
                 c.IncludeXmlComments(apiPath);
             });
+            services.AddSingleton<SingletonContainer>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
