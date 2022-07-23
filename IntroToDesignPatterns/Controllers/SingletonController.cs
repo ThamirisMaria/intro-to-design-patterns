@@ -12,11 +12,18 @@ namespace IntroToDesignPatterns.Controllers
     [ApiController]
     public class SingletonController : ControllerBase
     {
+        private readonly SingletonContainer singletonContainer;
+
+        public SingletonController(SingletonContainer singletonContainer)
+        {
+            this.singletonContainer = singletonContainer;
+        }
+
         [HttpGet()]
         public IActionResult Get()
         {
-            var singleton = Singleton.Instance;
-            return Ok(singleton);
+            var singleton = singletonContainer;
+            return Ok(singletonContainer);
         }
     }
 }
